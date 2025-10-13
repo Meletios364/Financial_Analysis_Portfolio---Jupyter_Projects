@@ -1,4 +1,4 @@
-# 📊 Financial Analysis Portfolio – Jupyter & Excel Projects
+# 📊 Financial Analysis Portfolio – Python (Jupyter) & Excel Projects
 
 This repository showcases real-world financial analytics projects built with **Python (Jupyter Notebooks)** and **Excel**.  
 The goal is to apply **quantitative methods** to company evaluation, stock market trends, and portfolio optimization — bridging finance theory with data-driven practice.
