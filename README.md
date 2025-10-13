@@ -54,18 +54,35 @@ Fields include Open, High, Low, Close, Adjusted Close, and Volume (monthly frequ
 
 ---
 
+### 📁 5. `PayPal_R&D_Impact_on_Revenue_and_ROIC_Econometric_Analysis.pdf`
+
+**Project Title:** *Empirical Evaluation of R&D Investments and Their Impact on PayPal's Revenue and Capital Efficiency (2014–2024)*
+
+A comprehensive econometric analysis exploring the relationship between:
+- R&D Intensity, Revenue, and Return on Invested Capital (ROIC)
+- The impact of **regulatory events** (GDPR, COVID-19) using **dummy variables**
+- Interpretation of OLS regression diagnostics (multicollinearity, autocorrelation, heteroskedasticity, normality)
+- Use of **lagged variables** and **partial regression plots**
+- Empirical evidence on the **time-lag between innovation and profitability**
+
+> 📌 Techniques: Econometrics | Regression Diagnostics | Policy Analysis | Statistical Inference | Model Specification  
+> 📌 Tools: EViews, Excel, Jupyter (supporting data)
+
+---
+
 ## 💡 Skills Demonstrated
 
 - **Financial Ratio Analysis** (Profitability, Liquidity, Leverage, Efficiency)  
 - **Financial Statement Analysis** (Horizontal & Vertical Techniques)  
 - **Comparative Industry Benchmarking**  
-- **Econometric Modelling & Regression (OLS, PPP Evaluation)**  
+- **Econometric Modelling & Regression (OLS, Lagged Variables, R², VIF, DW, JB Test)**  
+- **Statistical Diagnostics** (Heteroskedasticity, Autocorrelation, Normality Testing)  
 - **Time-Series Trend Analysis** (Volatility, SMA, Rolling Statistics)  
 - **Portfolio Optimization Based on Technical Indicators**  
 - **Data Visualization & Charting** (Excel Dashboards, Python Plots)  
 - **Python for Financial Analysis** (`pandas`, `yfinance`, `matplotlib`, `seaborn`)  
 - **Excel for Advanced Modelling** (Pivot Tables, Dynamic Ranges, KPI Charts)  
-- **Real-world Application of MSc Dissertation Techniques**
+- **Application of MSc Dissertation Techniques in Corporate Finance**
 
 ---
 
